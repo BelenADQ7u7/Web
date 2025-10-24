@@ -1,1 +1,3 @@
-Proyecto Web para la empresa de RevoSport, cuenta con diferentes vistas para los usuarios. Desde la principal, horarios, compra de paquetes de entrenamientos, ingreso de sesión, etc.
+Proyecto Web para RevoSport: Plataforma Integral de Gestión de Entrenamientos.
+
+Esta solución digital ofrece una experiencia de usuario completa con diversas vistas funcionales. Los usuarios pueden acceder a la página principal de la empresa, consultar los horarios de las clases, realizar la compra de paquetes de entrenamiento de forma segura e iniciar su sesión de usuario para acceder a su perfil personalizado.
